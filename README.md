@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Izaeria or Iza
-- 👀 I love roleplaying (DnD usually), video games (videogameFav : Dragon Age) and reading (bookFav : His Dark Materials)
-- 🌱 I’m currently learning Angular, Typescript
+- 🩷 I love roleplaying (DnD usually), video games, art and reading 
+- 🌱 I’m currently learning Docker, Tailwind
 - 📫 How to reach me: izabell.hallgren@gmail.com
 - 😄 Pronouns: she/her
 
